@@ -6,3 +6,4 @@ echo "twinspark"
 # guard against empty input
 # drop an unused branch
 # handle the edge case from the last release
+# clarify the control flow
