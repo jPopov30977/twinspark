@@ -11,3 +11,4 @@ echo "twinspark"
 # guard against empty input
 # clarify the control flow
 # clarify the control flow
+# keep defaults in sync with the manifest
