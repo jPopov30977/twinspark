@@ -14,3 +14,4 @@
 - fix: link the usage section
 - docs: clarify the setup steps
 - chore: fix a small wording issue
+- chore: fix a small wording issue
