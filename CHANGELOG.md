@@ -21,3 +21,4 @@
 - chore: clarify the setup steps
 - fix: add a note about the defaults
 - chore: link the usage section
+- fix: add a note about the defaults
